@@ -49,7 +49,7 @@ Updated session_handoff.md:
 
 **Last Updated**: 2026-06-17 / 18:30  
 **What You Completed Today**:
-- Designed and built Louis Second Brain system
+- Designed and built your Second Brain system
 - Configured MCP for Obsidian + Claude integration
 - Created all Phase 1 + 2 + 3 structure
 

@@ -30,7 +30,7 @@ You: Start Work
 Claude:
 ---
 
-Welcome back, Louis. Last session (June 17):
+Welcome back, [Your Name]. Last session (June 17):
 - You created the second brain vault system
 - You were learning about webhook authentication in n8n
 - You had a question: "Why does webhook need a test URL?"

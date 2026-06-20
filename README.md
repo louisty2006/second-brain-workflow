@@ -104,20 +104,24 @@ claude --version
 
 ## Step 2 — Copy Vault Template (CLI)
 
-From this repo folder:
+Clone this repo (if you haven't), then copy the template:
 
 ```bash
-cp -R "/Users/lautinyam/Documents/second-brain-workflow/vault-template" "~/Documents/[YourName]-Brain"
+git clone https://github.com/louisty2006/second-brain-workflow.git
+cd second-brain-workflow
+cp -R ./vault-template ~/Documents/[YourName]-Brain
 ```
 
-Replace `[YourName]-Brain` with your real vault name.
+Replace `[YourName]-Brain` with your real vault name (e.g. `Alex-Brain`).
+
+If you already cloned the repo, just `cd` into that folder and run the `cp` line.
 
 ---
 
 ## Step 3 — Start Claude (CLI)
 
 ```bash
-cd "/Users/lautinyam/Documents/second-brain-workflow"
+cd second-brain-workflow   # this repo folder, wherever you cloned it
 claude
 ```
 
