@@ -3,3 +3,8 @@
 *.log
 .env
 .env.*
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+graphify-out/
+.understand-anything/
